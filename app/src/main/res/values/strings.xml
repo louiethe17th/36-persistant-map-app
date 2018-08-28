@@ -2,4 +2,5 @@
     <string name="app_name">MapApp</string>
     <string name="title_activity_maps">Map</string>
     <string name="seattle">Seattle</string>
+    <string name="i_did_not_know_this_location_existed">WOW I did not know this location existed</string>
 </resources>

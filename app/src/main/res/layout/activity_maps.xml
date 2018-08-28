@@ -41,8 +41,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <Button
-            android:id="@+id/goToSeattle"
-            android:text="@string/seattle"
+            android:id="@+id/unknownlocation"
+            android:text="@string/i_did_not_know_this_location_existed"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
     </LinearLayout>
